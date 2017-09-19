@@ -4,7 +4,7 @@ Created on Wed Sep 13 14:10:21 2017
 
 @author: blenderherad
 
-tensorflow NN solution to taxi problem
+tensorflow NN solution to mnist handwriting data
 """
 
 import tensorflow as tf
